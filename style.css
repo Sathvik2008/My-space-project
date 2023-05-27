@@ -18,13 +18,22 @@ height: 50px;
 border-radius: 100px;
 color: white;
 font-size: 20px;
+border: 0px;
+font-weight: bold;
 }
 #sunbutton{
 background-color: orange;
 }
-.info{
+.information{
     font-size: 20px;
+    display: none;
 }
-#suninfo{
-    display:none;
+#mercurybutton{
+    background-color: black;
+}
+#mercury{
+width: 600px;
+}
+#venus{
+background-color: orange;
 }

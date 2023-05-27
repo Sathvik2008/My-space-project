@@ -1,2 +1,4 @@
-info()
-document.getElementById("suninfo").style.display="block";
+function info()
+{
+    document.getElementsByClassName("information").style.display="block";
+}
